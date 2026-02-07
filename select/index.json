@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シュガーヘイト",
+  "base_artist": "ChroNoiR",
+  "createdAt": "2026-02-07T03:11:50.714925Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シュガーヘイト",
+      "artist": "ChroNoiR",
+      "has_synced": false,
+      "path": "select/pl_01_シュガーヘイト_ChroNoiR.txt"
+    }
+  ]
+}
